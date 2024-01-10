@@ -15,7 +15,7 @@ const GifExpertApp = () => {
 
   return (
     <>
-        <h1>GifExplore</h1>
+        <h1>GifExplorer</h1>
 
         <AddCategory onNewCategory={ (event) => onAddCategory(event) } />
 
